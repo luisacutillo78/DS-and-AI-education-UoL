@@ -7,7 +7,7 @@ Here, you will find all information about our meetings oulines and ongoing discu
  | 1 | Introductory meeting      | 10- 12 am (GMT+1)   | Tue 28 July |   | 
  
  
- Relevant documents will be uploaded into the ad hoc folder asap possible after each meeting.
+ Relevant documents will be uploaded in this repo asap possible after each meeting.
  
 ## 1st meeting
 ### Agenda 
