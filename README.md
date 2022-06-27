@@ -4,7 +4,7 @@ Here, you will find all information about our meetings oulines and ongoing discu
 
   | Meeting 1      | Session                    | Time    |    Date      |   Collaborative document    |
 | ----------- | ------------------------------- | ----------- | --------------| --------------  |
- | 1 | Introductory meeting      | 10- 12 am (GMT+1)   | Tue 28 July |   | 
+ | 1 | Introductory meeting      | 10- 12 am (GMT+1)   | Tue 28 June |   | 
  
  
  Relevant documents will be uploaded in this repo asap possible after each meeting.
