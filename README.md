@@ -10,7 +10,7 @@ Here, you will find all information about our meetings oulines and ongoing discu
  Relevant documents will be uploaded in this repo asap possible after each meeting.
  
 ## 1st meeting
-### Agenda 
+### Agenda (temporary)
 
 
 | Agenda                   | Speaker                    |   Time      | 
