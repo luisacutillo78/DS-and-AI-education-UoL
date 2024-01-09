@@ -1,4 +1,4 @@
-# DS-and-AI-edu-UoL-private
+# DS-and-AI-edu-UoL-public
 Welcome to the local interest group in Data Science and AI Education, at the University of Leeds.
 Here, you will find all information about our meetings outlines and ongoing discussions. 
 
