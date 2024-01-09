@@ -10,9 +10,9 @@ Relevant documents will be uploaded in the [private repo](https://github.com/lui
 | 1 | Introductory meeting      | 10- 12 am (GMT+1)   | Tue 28 June 2022| [1st meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/1st_meeting_notes.md)  | 
 | 2 | Topic: How To Assess Coding Assignments      | 12- 13 (GMT+1)   | Thur 8 Sept 2022 | [2nd meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/2nd_meeting_notes.md)| 
 | 3 | Topic: Interdisciplinary projects | 14- 15 (GMT+1)   | Thur 10 Nov 2022 | [3rd meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/3rd_meeting_notes.md)  | 
-| 4 | Topic: Interdisciplinary projects | 14:00-15:00 (GMT+1) | Monday 27th March 2023 | [4th meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/4th_meeting_notes.md)  | 
-| 5 | Topic: Interdisciplinary projects |  13:00-14:00 (GMT+1)   | Wednesday 28th June 2023 | [5th meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/5th_meeting_notes.md)  | 
-| 6 | Topic: Interdisciplinary projects |  10:00-11:00m (GMT+1)   | 6th December 2023 | [6th meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/6th_meeting_notes.md)  | 
+| 4 | Topic: New Members Intro + Teaching Resources | 14:00-15:00 (GMT+1) | Monday 27th March 2023 | [4th meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/4th_meeting_notes.md)  | 
+| 5 | Topic: Skills at Library, MSc at Leeds & planning |  13:00-14:00 (GMT+1)   | Wednesday 28th June 2023 | [5th meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/5th_meeting_notes.md)  | 
+| 6 | Topic: AI policy in Student Education + Curriculum decolonization |  10:00-11:00m (GMT+1)   | 6th December 2023 | [6th meeting notes](https://github.com/luisacutillo78/DS-and-AI-edu-UoL-private/blob/main/meetings/6th_meeting_notes.md)  | 
  
  
 ## 1st meeting
